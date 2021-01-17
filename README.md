@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <img src="readme_img/python.png" width="250">
+  <img src="readme_img/python_logo.png" width="250">
 </div>
 
 # Introducción al documento
